@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+  <head>
+    <title>RSS Feeds</title>
+  </head>
+  <body>
+    <!-- Add more <outline> elements for additional feeds -->
+    <outline text="Woordenaar" type="rss" xmlUrl="https://woordenaar.wordpress.com/feed" />
+    <outline text="Jan van den Berg" type="rss" xmlUrl="https://janvandenberg.blog/feed/" />
+    <outline text="Mikz Log" type="rss" xmlUrl="https://mikz.net/log/feed/" />
+    <outline text="Kulturtankstelle" type="rss" xmlUrl="https://www.kulturtankstelle.nl/feed" />
+    <outline text="Mainzer Beobachter" type="rss" xmlUrl="https://mainzerbeobachter.com/feed/" />
+    <outline text="Landschap Lopen" type="rss" xmlUrl="http://landschaplopen.com/feed/" />
+    <outline text="Free State" type="rss" xmlUrl="https://zefhemel.nl/feed/" />
+    <outline text="Doe niet zo moeilijk" type="rss" xmlUrl="https://doenietzomoeilijk.nl/rss/feed.xml" />
+    <outline text="Daring Fireball" type="rss" xmlUrl="https://daringfireball.net/feeds/main" />
+    <outline text="Frank Meeuwsen" type="rss" xmlUrl="https://frankmeeuwsen.com/feed/" />
+    <outline text="I am Zero" type="rss" xmlUrl="https://www.iamzero.nl/feed" />
+    <outline text="Tracy Durnell" type="rss" xmlUrl="https://tracydurnell.com/feed/" />
+    <outline text="De Muur" type="rss" xmlUrl="https://uitgeverijdemuur.nl/feed" />
+    <outline text="iCulture" type="rss" xmlUrl="https://www.iculture.nl/feed/" />
+    <outline text="Karin" type="rss" xmlUrl="https://www.met-k.com/feed/" />
+    <outline text="Amiek" type="rss" xmlUrl="https://www.amiek.nl/feed" />
+    <outline text="Jirke" type="rss" xmlUrl="https://www.jirke.nl/feed" />
+    <outline text="Erik Visser" type="rss" xmlUrl="http://rkvssr.nl/feed" />
+    <outline text="Vliegend Eiland" type="rss" xmlUrl="http://vliegendeiland.blogspot.com/feeds/posts/default?alt=rss" />
+    <outline text="Kruimels" type="rss" xmlUrl="https://kruimels.blogspot.com/feeds/posts/default" />
+    <outline text="J.M. Zwaan" type="rss" xmlUrl="https://jmzwaanblog.blogspot.com" />
+    <outline text="Erik Jan Harmens" type="rss" xmlUrl="http://erikjanharmens.nl/blog?format=rss" />
+    <outline text="Fietsers Afstappen" type="rss" xmlUrl="https://www.fietsersafstappen.nl/" />
+    
+  </body>
+</opml>
