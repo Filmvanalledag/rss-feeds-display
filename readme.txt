@@ -1,6 +1,5 @@
 === RSS Feeds Display ===
 Contributors: (this should be a list of wordpress.org userid's)
-Donate link: https://example.com/
 Tags: rss, blogroll
 Requires at least: 6.4
 Tested up to: 6.4.3
@@ -14,6 +13,19 @@ Plug-in that displays links to the latest articles from multiple RSS feeds, like
 == Description ==
 
 RSS Feeds Display is a Wordpress plugin that displays links to the latest articles from multiple RSS feeds in a chronological order (newest first). The RSS feeds are read from an OPML-file. It creates a dynamic blogroll.
+
+== Changelog ==
+
+= 0.1 =
+* First version. Personal use only.
+
+== Upgrade Notice ==
+
+= 0.1 = 
+First version
+
+
+========
 
 This is the long description.  No limit, and you can use Markdown (as well as in the following sections).
 
@@ -49,12 +61,3 @@ Answer to foo bar dilemma.
 1. This screen shot description corresponds to screenshot-1.(png|jpg|jpeg|gif). Screenshots are stored in the /assets directory.
 2. This is the second screen shot
 
-== Changelog ==
-
-= 0.1 =
-* First version. Personal use only.
-
-== Upgrade Notice ==
-
-= 0.1 = 
-First version
